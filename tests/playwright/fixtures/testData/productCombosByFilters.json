@@ -1,0 +1,19 @@
+{
+    "combinations": [
+        {
+            "filterCriteriaDept": "Books",
+            "primePrograms": "Prime",
+            "price": "Under $25"
+        },
+        {
+            "filterCriteriaDept": "Electronics",
+            "primePrograms": "Prime Early Access deals",
+            "price": "$25 to $50"
+        },
+        {
+            "filterCriteriaDept": "Fashion",
+            "primePrograms": "Prime exclusive deals",
+            "price": "$50 to $100"
+        }
+    ]
+}
